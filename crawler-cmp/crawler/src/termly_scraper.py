@@ -1,6 +1,4 @@
-# Copyright (C) 2021-2022 Dino Bollinger
-# Created as part of a master thesis at ETH Zürich, Information Security Group
-# Licensed under BSD 3-Clause License, see included LICENSE file
+
 """
 Termly Scraper: This file defines the src used for the Termly Consent Management Provider.
 """

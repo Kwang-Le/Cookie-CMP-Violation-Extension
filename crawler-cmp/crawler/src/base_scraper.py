@@ -1,6 +1,4 @@
-# Copyright (C) 2021-2022 Dino Bollinger
-# Created as part of a master thesis at ETH Zürich, Information Security Group
-# Licensed under BSD 3-Clause License, see included LICENSE file
+
 """
 This script stores common classes and functions used for both types of crawler.
 - Class CrawlState defines the different success/error states that can result from a crawl.

@@ -1,6 +1,4 @@
-# Copyright (C) 2021-2022 Dino Bollinger
-# Created as part of a master thesis at ETH Zürich, Information Security Group
-# Licensed under BSD 3-Clause License, see included LICENSE file
+
 """
 OneTrust Scraper: Defines the src used for OneTrust's various consent management providers.
 Currently only supports English Cookie Consent Data.
